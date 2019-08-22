@@ -1,0 +1,69 @@
+/*pizzaStyles.css*/
+/*S. Tobicash 8/22/19*/
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+/* Style for elements */
+
+body {background-color: lightblue;}
+
+
+/* ID contains #whatevs  & <blah id = "whateves" */
+/* no spaces btwn a number & px, like 10px*/
+
+#pageTitle {
+					border: 30px solid black; 
+					padding: 50px; 
+					margin: 20px; 
+					width: 100px; 
+					background-color: yellow;
+}
+
+p { font-size: 20px; 
+	font-weight: bold; 
+	font-style: italic;
+}
+
+
+/* Class uses .whatevs & <blah class = "whatevs"> */
+
+.meat {color: brown;
+	  font-size: 20px; 
+	  font-weight: bold; 
+	  }
+.veggies {color: green;
+	  font-size: 20px; 
+	  font-weight: bold; 
+	  }
+.cheese {color: darkorange;
+	  font-size: 20px; 
+	  font-weight: bold; 
+	  }
+
+.btn1 {
+  background-color: tomato;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn2 {
+  background-color: white;
+  color: tomato;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+ 
